@@ -7,5 +7,5 @@ def key_for_min_value(name_hash)
       answer = name
     end
   end
-  keeper
+  answer
 end
